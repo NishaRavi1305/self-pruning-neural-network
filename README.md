@@ -169,13 +169,6 @@ This confirms the balance between model efficiency and predictive performance.
 
 ---
 
-## Future Improvements
-
-* Self-pruning convolutional layers
-* Adaptive lambda scheduling
-* Structured pruning for faster inference
-* Testing on CIFAR-100 / ImageNet
-* Deployment on edge devices
 
 ---
 
